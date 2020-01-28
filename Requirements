@@ -1,0 +1,4 @@
+-NLTK
+Once you’ve installed NLTK, you should install the NLTK packages by running the following code:
+-import nltk
+-nltk.download()
